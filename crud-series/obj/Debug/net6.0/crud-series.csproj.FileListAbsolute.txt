@@ -1,0 +1,15 @@
+E:\cursos-dev\curso-dio\avanade\Poo\crud-series-csharp\crud-series\bin\Debug\net6.0\crud-series.exe
+E:\cursos-dev\curso-dio\avanade\Poo\crud-series-csharp\crud-series\bin\Debug\net6.0\crud-series.deps.json
+E:\cursos-dev\curso-dio\avanade\Poo\crud-series-csharp\crud-series\bin\Debug\net6.0\crud-series.runtimeconfig.json
+E:\cursos-dev\curso-dio\avanade\Poo\crud-series-csharp\crud-series\bin\Debug\net6.0\crud-series.dll
+E:\cursos-dev\curso-dio\avanade\Poo\crud-series-csharp\crud-series\bin\Debug\net6.0\ref\crud-series.dll
+E:\cursos-dev\curso-dio\avanade\Poo\crud-series-csharp\crud-series\bin\Debug\net6.0\crud-series.pdb
+E:\cursos-dev\curso-dio\avanade\Poo\crud-series-csharp\crud-series\obj\Debug\net6.0\crud-series.csproj.AssemblyReference.cache
+E:\cursos-dev\curso-dio\avanade\Poo\crud-series-csharp\crud-series\obj\Debug\net6.0\crud-series.GeneratedMSBuildEditorConfig.editorconfig
+E:\cursos-dev\curso-dio\avanade\Poo\crud-series-csharp\crud-series\obj\Debug\net6.0\crud-series.AssemblyInfoInputs.cache
+E:\cursos-dev\curso-dio\avanade\Poo\crud-series-csharp\crud-series\obj\Debug\net6.0\crud-series.AssemblyInfo.cs
+E:\cursos-dev\curso-dio\avanade\Poo\crud-series-csharp\crud-series\obj\Debug\net6.0\crud-series.csproj.CoreCompileInputs.cache
+E:\cursos-dev\curso-dio\avanade\Poo\crud-series-csharp\crud-series\obj\Debug\net6.0\crud-series.dll
+E:\cursos-dev\curso-dio\avanade\Poo\crud-series-csharp\crud-series\obj\Debug\net6.0\ref\crud-series.dll
+E:\cursos-dev\curso-dio\avanade\Poo\crud-series-csharp\crud-series\obj\Debug\net6.0\crud-series.pdb
+E:\cursos-dev\curso-dio\avanade\Poo\crud-series-csharp\crud-series\obj\Debug\net6.0\crud-series.genruntimeconfig.cache

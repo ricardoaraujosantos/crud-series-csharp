@@ -1,4 +1,4 @@
-namespace crud_series.Enum
+namespace crud_series
 {
     public enum Genero
     {

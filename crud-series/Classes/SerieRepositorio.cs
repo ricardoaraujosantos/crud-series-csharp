@@ -12,7 +12,7 @@ namespace crud_series.Classes
 
         public void Excluir(int id)
         {
-            listaSeries[id].Excluir();
+            listaSeries[id].retornaExcluir();
         }
 
         public void Insere(Series entidade)
