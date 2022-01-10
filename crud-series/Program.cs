@@ -10,7 +10,7 @@ namespace crud_series
         static void Main(string[] args)
         {
             string opcaoUsuario = obterOpcaoUsuario();
-            while (opcaoUsuario.ToUpper() != "X")
+            while (opcaoUsuario.ToUpper() != "x")
             {
                 switch (opcaoUsuario)
                 {
@@ -29,13 +29,16 @@ namespace crud_series
                     case "5":
                         VisualizarSerie();
                         break;
-                    case "L":
+                    case "C":
                         Console.Clear();
                         break;
                     default:
                     throw new ArgumentOutOfRangeException();
                 }
+                opcaoUsuario = obterOpcaoUsuario();
             }
+            System.Console.WriteLine("Obrigado por utilizar nossos serviços!");
+            Console.ReadLine();
         }
            private static void ListarSeries()
 		{
@@ -59,7 +62,6 @@ namespace crud_series
 		{
 			System.Console.WriteLine("Inserir nova série");
             foreach (int i in Enum.GetValues(typeof(Genero)))
-            {
                 {
                     Console.WriteLine("{0}-{1}", i, Enum.GetName(typeof(Genero), i));
                 }
@@ -82,7 +84,7 @@ namespace crud_series
                                             descricao: entradaDescricao);
 
                 repositorio.Insere(novaSerie);
-            }
+            
         }
           private static void AtualizarSerie()
 		{
@@ -140,7 +142,7 @@ namespace crud_series
             System.Console.WriteLine("1 - Listar Séries");
             System.Console.WriteLine("2 - Inserir nova Série");
             System.Console.WriteLine("3 - Atualizar Série");
-            System.Console.WriteLine("4 - Excuir Série");
+            System.Console.WriteLine("4 - Excluir Série");
             System.Console.WriteLine("5 - Visualizar Série");
             System.Console.WriteLine("L - Limpar Série");
             System.Console.WriteLine("X - Excluir Série");
